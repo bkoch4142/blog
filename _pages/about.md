@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Machine Learning Engineer with experience in ML, DL , NLP & CV specializing in ConversationalAI & NLP.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
