@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bkoch4142.github.io/blog/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
+<loc>https://bkoch4142.github.io/blog/jupyter/2020/10/14/Constructing-an-ANN.html</loc>
+<lastmod>2020-10-14T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://bkoch4142.github.io/blog/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
+<loc>https://bkoch4142.github.io/blog/jupyter/nlp/2020/10/22/RNN-Intuition-Theory-Implementation.html</loc>
+<lastmod>2020-10-22T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://bkoch4142.github.io/blog/nlp/2020/11/08/LSTM.html</loc>
+<lastmod>2020-11-08T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://bkoch4142.github.io/blog/about/</loc>
